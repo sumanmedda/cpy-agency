@@ -1,3 +1,5 @@
+/* color: #f0b428; Previous Yellow Color*/ 
+
 html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -2055,7 +2057,7 @@ html {
   
   :root {
     --white: #fafafa;
-    --goldenrod: #f0b428;
+    --goldenrod: #6928f0;
     --coral: #ff7332;
   }
   
@@ -3272,7 +3274,7 @@ html {
   }
   
   .text-color-yellow {
-    color: #f0b428;
+    color: #6928f0;
   }
   
   .text-color-yellow.margin-left {
@@ -5919,7 +5921,7 @@ html {
   }
   
   .text-span, .text-span-2 {
-    color: #f0b428;
+    color: #6928f0;
   }
   
   .section_timeline9 {
@@ -6086,7 +6088,6 @@ html {
   }
   
   .text-span-3 {
-    /* color: #f0b428; */
     color: #6928f0;
   }
   
